@@ -25,30 +25,6 @@
 
 🔗 Repo: https://github.com/madhukamethsara/Voice-note-
 
----
-
-## 🛠️ Tech Stack
-### 👨‍💻 Languages
-- C#
-- JavaScript
-- Python
-- Dart
-- SQL
-
-### 🌐 Development
-- Flutter
-- .NET Framework
-- React (Learning)
-- Firebase
-- Supabase
-
-### 🧰 Tools
-- Git & GitHub
-- Figma
-- Visual Studio / VS Code
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhukamethsara&show_icons=true&theme=tokyonight" />
