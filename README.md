@@ -39,13 +39,5 @@
 - 🌐 Full Stack Development
 - 🚀 Building Portfolio Projects
 
----
-
-## 🤝 Let's Connect
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
-
----
-
 ## ⚡ Fun Fact
 > I don't just write code… I build solutions that people can actually use.
