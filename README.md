@@ -9,18 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=madhukamethsara&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 Software Engineering undergraduate at **NSBM**
-- 💡 I enjoy building systems that solve real problems
-- 📱 Currently working on **mobile and software projects**
-- 🌱 Learning **Flutter, Firebase, React, Next.js, and modern development practices**
-- 🎯 My goal is to become a strong **Full Stack Software Engineer**
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -33,18 +21,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,firebase,react,nextjs,dotnet,git,github,vscode,figma,mysql" />
 </p>
 
----
-
-## 📌 Current Focus
-
-- 🎤 Voice Note mobile application
-- ☁️ Firebase authentication and database integration
-- 🧠 Clean project architecture
-- 🌐 Portfolio and GitHub improvement
-- 📚 Growing step by step as a developer
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -55,35 +31,6 @@
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=madhukamethsara&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🔥 Featured Project
-
-### 🎤 Voice Note
-A smart mobile application designed to help students record, organize, and manage lecture voice notes in a structured way.
-
-#### Main ideas:
-- Record lecture-related voice notes
-- Organize content by module
-- Connect with Firebase
-- Improve student productivity
-- Build a useful academic support system
-
-🔗 **Repository:**  
-[Voice Note Project](https://github.com/madhukamethsara/Voice-note-)
-
----
-
-## 🌍 Connect With Me
-
-<p>
-  <a href="https://github.com/madhukamethsara" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-madhukamethsara-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
 
 ## ⚡ Personal Motto
 
