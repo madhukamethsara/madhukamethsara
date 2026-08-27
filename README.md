@@ -1,120 +1,116 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Madhuka%20Methsara&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20SE%20Undergraduate&descAlignY=55&descSize=18" width="100%" />
 
-<h1>Hi there, I'm Madhuka Methsara 👋</h1>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full+Stack+Developer+in+Progress;Flutter+%7C+React+%7C+Node.js;Exploring+AI+%26+Machine+Learning;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+with+Flutter+%2B+React;Backend+with+Node.js+%2B+Express;Exploring+AI+%26+Machine+Learning;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=madhukamethsara&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/madhukamethsara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:madhukamethsara@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/madhukamethsara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:madhukamethsara@example.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/madhukamethsara" target="_blank"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=madhukamethsara&label=Profile+Views&color=a78bfa&style=flat-square" alt="Profile Views" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 🧭 About Me
 
-- 🎓 Software Engineering undergraduate at **NSBM**
-- 💻 Passionate about **Full Stack Software Development**
-- 📱 Building web and mobile applications
-- 🧠 Currently exploring **Artificial Intelligence & Machine Learning**
-- ⚙️ Interested in backend development, APIs, databases, and system architecture
-- 🚀 Learning by building real-world projects and solving actual problems
-- 🎯 Goal: become a strong **Full Stack Software Engineer**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,dart,cs,java,html,css,php" alt="Programming Languages" />
-</p>
-
-### Frameworks & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,dotnet,firebase" alt="Frameworks and Technologies" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
-</p>
-
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" alt="Development Tools" />
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=madhukamethsara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Madhuka's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukamethsara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=madhukamethsara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhukamethsara&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhukamethsara&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-```text
-🌐 Full Stack Development
-📱 Flutter Development
-⚛️  React & Next.js
-🟢 Node.js & Express
-🍃 MongoDB
-🔥 Firebase
-🧠 Artificial Intelligence & Machine Learning
-🏗️  Software Architecture & Clean Code
+```yaml
+name: Madhuka Methsara
+role: Software Engineering Undergraduate @ NSBM
+focus: Full Stack Development · AI & Machine Learning
+currently_building: Real-world web & mobile applications
+interests: [System Architecture, APIs, Clean Code, Backend Engineering]
+motto: "Learn deeply. Build honestly. Improve continuously."
 ```
 
----
+<br/>
 
-## ⚡ Personal Motto
+## 🧰 Tech Stack
 
-> **Learn deeply. Build honestly. Improve continuously.**
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
----
+**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,dart,cs,java,html,css,php" />
+</p>
+
+**Databases & Cloud**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+**Frameworks**
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,dotnet" />
+</p>
+
+**Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<i>Keep learning • Keep building • Keep improving 🚀</i>
+<img src="https://github-readme-stats.vercel.app/api?username=madhukamethsara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukamethsara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="49%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer" alt="Footer" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=madhukamethsara&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhukamethsara&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA" width="90%" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=madhukamethsara&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+<br/>
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+| 🌐 Web | 📱 Mobile | 🧠 AI/ML | 🏗️ Architecture |
+|:---:|:---:|:---:|:---:|
+| React · Next.js | Flutter | Exploring ML fundamentals | Clean Code |
+| Node.js · Express | Cross-platform apps | Model integration | System Design |
+| MongoDB · Firebase | UI/UX polish | Data-driven features | API Design |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 "Learn deeply. Build honestly. Improve continuously."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
