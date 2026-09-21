@@ -113,16 +113,3 @@ alt="Madhuka Methsara GitHub Streak"
 />
 
 </div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=madhukamethsara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF"
-alt="Madhuka's GitHub Stats"
-/>
-</div>
