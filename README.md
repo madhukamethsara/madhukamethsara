@@ -125,13 +125,4 @@ width="49%"
 src="https://github-readme-stats.vercel.app/api?username=madhukamethsara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF"
 alt="Madhuka's GitHub Stats"
 />
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukamethsara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"
-alt="Madhuka's Top Languages"
-/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-
 </div>
