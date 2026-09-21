@@ -132,45 +132,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukameths
 alt="Madhuka's Top Languages"
 />
 
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=madhukamethsara&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-alt="GitHub Contribution Graph"
-/>
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/madhukamethsara/madhukamethsara/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 💭 "Learn deeply. Build honestly. Improve continuously."
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
